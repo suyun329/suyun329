@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **suyun329/suyun329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## CHOI SU YEON :blush:
 
 ### :small_orange_diamond: Skills
 #### Languages
 
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-##F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
 #### Tools
 
-<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
