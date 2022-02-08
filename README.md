@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 ### :small_orange_diamond: Skills
 #### Languages
 
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-##F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-##F7DF1E?style=flat-square&logo=java&logoColor=black"/>
 
 #### Tools
 
-<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
